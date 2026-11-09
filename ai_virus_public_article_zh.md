@@ -1,6 +1,10 @@
-# 看不见的数字瘟疫：当“Villain AI”学会跨记忆传染，而人类还在对着漏洞顶礼膜拜
+[🇬🇧 **Read English Version (Hacker News Edition)**](ai_virus_hacker_news_en.md) | [📁 **返回仓库主页**](README.md)
 
-**深度科技与安全观察**
+---
+
+# 看不见的数字瘟疫：当“反派AI”学会跨记忆传染，而人类还在对着漏洞顶礼膜拜
+
+**撰文 | 深度科技与安全观察**
 
 ---
 
